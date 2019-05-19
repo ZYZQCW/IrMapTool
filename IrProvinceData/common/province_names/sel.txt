@@ -1,0 +1,20 @@
+﻿SEL = {
+	177 = PROV177_SEL #  Laodikeia/Pithoi
+	772 = PROV772_SEL #  Laodikea Orontou/Kabiosa
+	782 = PROV782_SEL #  Apamea on the Orontes
+	786 = PROV786_SEL #  Laodikeia Paralos/Leukos Limen
+	790 = PROV789_SEL #  Seleukeia Pieria
+	791 = PROV791_SEL #  Darkush
+	810 = PROV810_SEL #  Zeugma
+	830 = PROV830_SEL #  Nisibis
+	844 = PROV844_SEL #  Antiochia Arabis
+	943 = PROV943_SEL #  Soloke
+	1882 = PROV1882_SEL #  Adana
+	1883 = PROV1883_SEL #  Tarsus
+	1889 = PROV1889_SEL #  Magarsa
+	1890 = PROV1890_SEL #  Tracheia
+	1928 = PROV1928_SEL #  Antiocheia
+	1933 = PROV1933_SEL #  Seleucia Sidera
+	1948 = PROV1948_SEL #  Laodikeia Lykou/Diospolis Lykou
+	1966 = PROV1966_SEL #  Tralles
+}

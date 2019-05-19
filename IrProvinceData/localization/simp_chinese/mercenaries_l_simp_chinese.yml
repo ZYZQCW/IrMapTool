@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ MERC_HIRED_BY:0 "#T $WHO$#!\n这些雇佣兵已被$LONGNAME|V$雇佣。"
+ MERC_GOTO_TOOLTIP:0 "#T 目前位置#!\n#I 单击此处将镜头平移到此雇佣兵在地图上的位置。#!"
+ MERC_ALREADY_EMPLOPED:0 "@trigger_no!这些雇佣兵已经在为$NAME|y$效力。"
+ RECRUIT_MERCENARY_TITLE:0 "#T 雇佣雇佣兵#!"
+ RECRUIT_MERCENARY_TT:0 "招募$NAME|Y$将花费 $COST$ 并且他们将为我们服务直到其他命令下达。\n\n此花费是基于：\n$COST_WHY$\n$MONTHLY_COST$"
+ RECRUIT_MERCENARY_BUTTON:0 "雇佣"
+ MERC_OUT_OF_RANGE:0 "@trigger_no!这些雇佣兵来自$WHERE|Y$，这超出了我们的外交距离。"
+ MERC_CANT_AFFORD_DEBT:0 "@trigger_no!你至少需要$COUNT|0Y$倍于他们解散费用（$COST|Y$@gold!）的金钱才能注册雇佣兵团。"
+ RECRUIT_MERCENARY_BUTTON_TT:0 "$RECRUIT_MERCENARY_TITLE$\n[MercenaryItem.GetButtonTooltip]"

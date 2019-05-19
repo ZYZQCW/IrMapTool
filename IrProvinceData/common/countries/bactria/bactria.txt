@@ -1,0 +1,5 @@
+﻿color = rgb { 208 24 58 }
+
+ship_names = {
+}
+lucky = yes

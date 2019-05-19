@@ -1,0 +1,3 @@
+﻿EGY = {
+	7517 = PROV7517_EGY #  Arsinoe
+}

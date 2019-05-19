@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+ Johan_event.1.t:0 "约翰斯测试事件标题"
+ Johan_event.1.d:0 "[ROOT.Char.GetName]今年 [ROOT.Char.GetAge] 岁，住在[ROOT.Char.GetCountry.GetName]"
+ Johan_event.1.a:0 "骰子已被掷下！"

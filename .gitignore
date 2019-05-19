@@ -21,3 +21,9 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+IrDataAnalyzer.py
+IrDataManage.py
+IrDataUtil.py
+TestIrTool.py
+.gitignore
+IrDataCore.py

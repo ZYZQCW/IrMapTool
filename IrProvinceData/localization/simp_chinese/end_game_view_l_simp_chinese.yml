@@ -1,0 +1,10 @@
+﻿l_simp_chinese:
+ END_GAME_VIEW_LOSING_TITLE:0 "游戏结束"
+ END_GAME_VIEW_LOSING_TEXT:0 "$DATE$，[COUNTRY.GetName]的辉煌时代可耻地被[TARGET_COUNTRY.GetRuler.GetName]和[TARGET_COUNTRY.GetAdjective]人民终结。\n\n随着时间流逝，我们骄傲的人民将会被历史遗忘，仅仅成为讲述我们敌人胜利的史诗的旁注。"
+ END_GAME_VIEW_SURVIVING_TITLE:0 "历史上的一个小记号"
+ END_GAME_VIEW_SURVIVING_TEXT:0 "一些有关我们国家的有趣文本被记载了下来，目前只有历史系教授和GSG’s 2 millenias玩家知道。"
+ END_GAME_VIEW_IMPERIAL_GLORY_TITLE:0 "帝国时代"
+ END_GAME_VIEW_IMPERIAL_GLORY_TEXT:0 "你建立了多么伟大的帝国的文本，等等……"
+ END_GAME_VIEW_GREATEST_EMPIRE_TITLE:0 "历史中最为伟大的帝国"
+ END_GAME_VIEW_GREATEST_EMPIRE_TEXT:0 "[COUNTRY.GetAdjective]的人民将会被神明们称赞，因为他们建立起了一个伟大的帝国，甚至已经超越亚历山大大帝。\n\n我们将被历史铭记，不仅仅是作为征服者，更是将伟大文明带到世界各个角落的传播者。"
+ OBSERVE:0 "继续以观察者模式游玩"

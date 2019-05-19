@@ -1,0 +1,8 @@
+﻿l_simp_chinese:
+ difficulty_very_easy_tooltip:0 "难度：#Y 非常简单#!\n\n这是游戏难度最简单的设置。人类玩家将获得大量加成，所有AI国家都将受到减成。\nAI对人类玩家的侵略性也会较小。\n\n#T 玩家修正：#!\n$PLAYER_MODIFIERS$\n#T AI修正：#!\n$AI_MODIFIERS$"
+ difficulty_easy_tooltip:0 "难度：#Y 简单#!\n\n这个游戏难度将给予玩家更为轻松和简单的游戏体验。人类玩家将获得加成。\n电脑对人类玩家的侵略性会比正常模式低。\n\n#T 玩家修正：#!\n$PLAYER_MODIFIERS$\n#T 电脑修正：#!\n$AI_MODIFIERS$"
+ difficulty_normal_tooltip:0 "难度：#Y 正常#!\n\n这个游戏难度将给予玩家均衡的游戏体验。人类玩家和AI都不会获得任何加成。\n电脑会对人类玩家和其他电脑一视同仁。\n\n#T 玩家修正：#!\n$PLAYER_MODIFIERS$\n#T 电脑修正：#!\n$AI_MODIFIERS$"
+ difficulty_hard_tooltip:0 "难度：#Y 困难#!\n\n这是提供给更具经验的玩家的游戏难度设置。\n电脑国家会获得加成而人类玩家不会，电脑国家也会变得更具侵略性。\n\n#T 玩家修正：#!\n$PLAYER_MODIFIERS$\n#T 电脑修正：#!\n$AI_MODIFIERS$"
+ difficulty_very_hard_tooltip:0 "难度：#Y 非常困难#!\n\n这是游戏难度最困难的设置。电脑玩家将获得大量加成，而人类国家将不会收到影响。\n电脑会更具有侵略性。\n\n#T 玩家修正：#!\n$PLAYER_MODIFIERS$\n#T 电脑修正：#!\n$AI_MODIFIERS$"
+ DIFFICULTY_TOOLTIP:0 "难度：\n难度设定允许您通过改变电脑行为和各种加成来控制游戏的难度。"
+ IRONMAN_TOOLTIP:0 "#Y 铁人模式#!：\n\n一种更具挑战性的游戏模式。\n- #T 可以获得成就#!.\n- 将每场游戏的保存文件数限制为一个。\n- 没有有选择性和频繁的自动保存。\n- 不能使用控制台作弊。\n- 不能切换国家。"

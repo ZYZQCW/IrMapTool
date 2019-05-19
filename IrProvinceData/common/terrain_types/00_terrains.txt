@@ -1,0 +1,91 @@
+﻿plains = {
+	color = { 0.4 0.9 0.4 } #{ 0.7 0.6 0.2 }
+	modifier = {
+		#none
+	}
+}
+
+mountain = {
+	color = { 0.075 0.075 0.075 }
+
+	
+	defender = 2
+
+	modifier = {
+		supply_limit_modifier = -0.5
+		movement_cost = 0.8	
+		local_population_growth  = -0.2
+	}
+}
+
+hills = {
+	color = { 0.4 0.1 0.0 }
+
+	
+	defender = 1
+
+	modifier = {
+		movement_cost = 0.2
+		local_population_growth  = -0.1
+	}
+}
+
+desert = {
+	color = { 1 0.5 0.2 } #{ 0.7 0.7 0.0 }
+
+	modifier = {
+		movement_cost = 0.1
+		attrition = 1
+		local_population_growth  = -0.25
+	}
+}
+
+marsh = {
+	color = { 0.1 0.6 0.6 }
+
+	defender = 1
+
+
+	modifier = {
+		movement_cost = 0.5
+		supply_limit_modifier = -0.5
+		local_population_growth  = -0.1
+	}
+}
+
+
+jungle = {
+	color = { 0.05 0.1 0.05 }#{ 0.2 0.5 0.2 }
+
+	modifier = {
+		movement_cost = 0.5
+		supply_limit_modifier = -0.5
+		local_population_growth  = -0.2
+	}
+}
+
+
+
+farmland = {
+	color = { 0.7 0.7 0.0 } #{ 0.9 0.0 0.0 }
+
+	modifier = {
+		local_population_growth  = 0.1
+		local_goods_from_slaves = -2
+	}
+}
+
+forest = {
+	color = { 0.1 0.3 0.1 }
+	defender = 1
+
+	modifier = {
+		movement_cost = 0.3
+		local_population_growth  = -0.1
+	}
+}
+
+ocean = {
+	color = { 0.1 0.1 1.0 }
+}
+

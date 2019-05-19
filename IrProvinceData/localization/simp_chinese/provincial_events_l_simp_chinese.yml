@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ provincial_events.1.t:0 "当地的紧张局势"
+ provincial_events.1.desc:0 "定居在[SCOPE.sP('colonial_province').GetName]的[ROOT.GetCountry.GetPrimaryCulture.GetName]殖民者和周边地区之间的关系越来越紧张。当地人声称我们的定居者正在动摇当地传统和公认的权力结构。另一方面，我们的殖民者声称，当地人之所以惊慌失措，只是因为我们的殖民城市超越了该地区现有的主要城市。"
+ provincial_events.1.a:0 "维护[ROOT.GetCountry.GetPrimaryCulture.GetName]的利益。"
+ provincial_events.1.b:0 "维护当地人的利益。"

@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ warfare.1.t:0 "对[SCOPE.sP('temp_city_scope_warfare_1').GetName]的洗劫"
+ warfare.1.desc:0 "[ROOT.GetCharacter.GetName]业已在[SCOPE.sP('temp_city_scope_warfare_1').GetName]的围攻战中取得光荣的胜利。在敌军溃逃后，剩下要决定的就是城内居民的命运了。\n\n不言而喻，由于战利品，[ROOT.GetCharacter.GetPraenomen]在[ROOT.GetCharacter.GetEmployer.GetCapital.GetName]的人们中将获得极大的威望。但是在一个[ROOT.GetCharacter.GetWomanMan]手中聚集如此多财富将留下隐患……"
+ warfare.1.a:0 "温和地劫掠。"
+ warfare.1.b:0 "让将士们肆意妄为！"
+ warfare.1.c:0 "搬空他们！"
+ warfare.1.d:0 "[SCOPE.sP('temp_city_scope_warfare_1').GetName]必须被摧毁！"
+ warfare.2.t:0 "[SCOPE.sP('temp_city_scope_warfare_1').GetName]被劫掠！"
+ warfare.2.desc:0 "在围攻[SCOPE.sP('temp_city_scope_warfare_1').GetName]之后，[SCOPE.sChar('siege_instigator').GetName]让[SCOPE.sChar('siege_instigator').HerHis]的军队肆无忌惮，导致了谋杀，强奸和盗窃。[SCOPE.sChar('siege_instigator').GetPraenomen]从这次恶行中获得的财富是无与伦比的，我们的顾问暗示说[SCOPE.sChar('siege_instigator').GetSheHe]现在可能是我们国家最富有的人之一。甚至以前常驻在[SCOPE.sP('temp_city_scope_warfare_1').GetName]的逃亡者也成群结队地加入[SCOPE.sChar('siege_instigator').GetPraenomen]。\n\n尽管[SCOPE.sChar('siege_instigator').GetHerHis]广受好评，我们仍应该考虑惩罚[SCOPE.sChar('siege_instigator').GetHerHim]这些卑鄙的行为。"
+ warfare.2.a:0 "不。随便怎么来吧。"
+ warfare.2.b:0 "坚持要求宣誓效忠。"
+ warfare.2.c:0 "要求与军队分享那些财宝！"

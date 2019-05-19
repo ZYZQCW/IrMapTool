@@ -1,0 +1,87 @@
+﻿original_thinker = { #
+	type = military
+
+	martial = 1
+	unit = {
+		siege_ability = 0.1
+	}
+}
+tactically_inflexible = { #
+	type = military
+	
+	martial = -1
+	unit = {
+		cohort_reinforcement_speed = -0.1
+	}
+}
+confident = { #
+	type = military
+	
+	martial = 1
+	unit = {
+		heavy_cavalry_discipline = 0.05
+		chariots_discipline = 0.05
+	}
+}
+tactician = { #
+	type = military
+	
+	martial = 1
+	unit = {
+		archers_discipline = 0.05
+		light_infantry_discipline = 0.05
+		horse_archers_discipline = 0.05
+	}
+}
+disciplined = { #
+	type = military
+	
+	martial = 1
+	unit = {
+		discipline = 0.05
+	}
+}
+steadfast = { #
+	type = military
+	
+	martial = 1
+	unit = {
+		heavy_infantry_discipline = 0.05
+		warelephant_discipline = 0.05
+	}
+}
+aggressive = { #
+	type = military
+	
+	martial = 1
+	unit = {
+		light_cavalry_discipline = 0.05
+		camels_discipline = 0.05
+	}
+}
+brave = {
+	type = military
+	
+	opposites = {
+		coward
+	}
+	martial = 1
+	
+	unit = {
+		land_morale_modifier = 0.05
+		loyalty_gain_chance = 0.02
+	}
+}
+coward = { #
+	type = military
+	
+	opposites = {
+		brave
+	}
+	
+	martial = -1
+	unit = {
+		land_morale_modifier = -0.05
+		loyalty_gain_chance = -0.02
+	}
+}

@@ -1,0 +1,12 @@
+﻿l_simp_chinese:
+ NUM_OF_ARMIES_SELECTED:0 "已选择 $NUM$ 支陆军。"
+ NUM_OF_NAVIES_SELECTED:0 "已选择 $NUM$ 支海军。"
+ ASSAULT_ALREADY:0 "已有一场强攻在进行中。"
+ ASSAULT_TOO_WEAK:0 "围城部队中没有足够的步兵来发起强攻。"
+ ASSAULT_IS_DEFENDER:0 "围攻的防御方不能下令发起强攻。"
+ ASSAULT_NOT_IN_COMMAND:0 "你不是此次围攻的总指挥官。"
+ ASSAULT_TOO_LOW_MORALE:0 "围攻者士气低落，无法发起强攻。"
+ ASSAULT_ORDER:0 "#T 命令发起强攻#!\n命令发起强攻需要花费 $COST$。\n这一花费是由于$COST_WHY$\n\n#TF 下令发起强攻会消耗大量人力，但可能会促使围攻迅速结束。#!"
+ DISBAND_NOT_IN_COMBAT:0 "无法解散战斗中的部队。"
+ REORGANIZE_WINDOW_TITLE:0 "改编"
+ SELECT_UNIT:0 "选择此单位"
